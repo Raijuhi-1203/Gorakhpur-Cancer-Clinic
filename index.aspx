@@ -101,14 +101,14 @@
                                     <i class="bi bi-heart-pulse"></i>
                                 </div>
                                 <div class="card-text">
-                                    <h4>24/7 Emergency Care</h4>
-                                    <p>Always here when you need us most</p>
+                                    <h4>Timing :- 9:00 am to 4:00 pm</h4>
+                                    
                                 </div>
                             </div>
                         </div>
                         <div class="experience-badge">
                             <div class="badge-content">
-                                <span class="years">15+</span>
+                                <span class="years">20+</span>
                                 <span class="text">Years of Trusted Care</span>
                             </div>
                         </div>
@@ -124,11 +124,7 @@
     <!-- Featured Departments Section -->
     <section id="featured-departments" class="featured-departments section">
 
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Featured Departments</h2>
-        </div>
-        <!-- End Section Title -->
+        
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -138,7 +134,7 @@
                     <div class="specialty-card">
                         <div class="specialty-content">
                             
-                            <h3>Cancer Immunotherapy</h3>
+                            <h3><b>Cancer Immunotherapy</b></h3>
                             <p>
                                 Cancer Immunotherapy is an advanced treatment that helps the body's own immune system recognize and fight cancer cells more effectively.
                             </p>
@@ -160,7 +156,7 @@
                     <div class="specialty-card">
                         <div class="specialty-content">
                             
-                            <h3>Cancer Chemotherapy</h3>
+                            <h3><b>Cancer Chemotherapy</b></h3>
                             <p>
                                 Cancer Chemotherapy is a proven and effective cancer treatment that uses specialized medicines to destroy cancer cells, slow their growth, and prevent them from spreading.
                             </p>
@@ -183,7 +179,7 @@
                         <div class="highlight-icon">
                             <i class="bi bi-shield-plus"></i>
                         </div>
-                        <h4>Radiotherapy Side Effects Treatment</h4>
+                        <h4><b>Radiotherapy Side Effects Treatment</b></h4>
                         <p>
                             Radiotherapy is an effective treatment for many types of cancer, but some patients may experience temporary side effects during or after treatment.
                         </p>
@@ -198,7 +194,7 @@
                         <div class="highlight-icon">
                             <i class="bi bi-people"></i>
                         </div>
-                        <h4>Radiotherapy Planning</h4>
+                        <h4><b>Radiotherapy Planning</b></h4>
                         <p>
                             Radiotherapy Planning is a crucial step in cancer treatment that ensures radiation is delivered with maximum precision to the tumor while protecting the surrounding healthy tissues.
                         </p>
@@ -213,7 +209,7 @@
                         <div class="highlight-icon">
                             <i class="bi bi-activity"></i>
                         </div>
-                        <h4>Treatment Guidance</h4>
+                        <h4><b>Treatment Guidance</b></h4>
                         <p>
                             Multidisciplinary oncology program offering personalized cancer care with latest therapeutic
                 innovations.
@@ -226,25 +222,7 @@
 
             </div>
 
-            <div class="emergency-banner" data-aos="fade-up" data-aos-delay="400">
-                <div class="row align-items-center">
-                    <div class="col-lg-8">
-                        <div class="emergency-content">
-                            <h3>Emergency Services Available 24/7</h3>
-                            <p>
-                                Our emergency department is equipped with state-of-the-art technology and staffed by board-certified
-                  emergency physicians ready to provide immediate care.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 text-lg-end">
-                        <a href="tel:+15551234567" class="emergency-btn">
-                            <i class="bi bi-telephone-fill"></i>
-                            Emergency: +91-9889297297
-                        </a>
-                    </div>
-                </div>
-            </div>
+            
 
         </div>
 
@@ -309,7 +287,7 @@
                             <div class="feature-icon">
                                 <i class="bi bi-clock"></i>
                             </div>
-                            <h3>24/7 Availability</h3>
+                            <h3>Availability</h3>
                             <p>
                                 Our cancer care team is available around the clock to provide immediate medical assistance for oncology emergencies, treatment-related complications, and urgent patient needs. We ensure timely intervention and compassionate care whenever you need us.
                             </p>
