@@ -145,7 +145,7 @@
 
                         </div>
                         <div class="specialty-visual">
-                            <img src="assets/img/health/cardiology-1.webp" alt="Cardiovascular Medicine" class="img-fluid">
+                            <img src="assets/img/health/cancer-2.webp" alt="Cardiovascular Medicine" class="img-fluid">
                            
                         </div>
                     </div>
@@ -167,7 +167,7 @@
 
                         </div>
                         <div class="specialty-visual">
-                            <img src="assets/img/health/neurology-4.webp" alt="Neurological Sciences" class="img-fluid">
+                            <img src="assets/img/health/cancer-10.webp" alt="Neurological Sciences" class="img-fluid">
                             
                         </div>
                     </div>

@@ -204,7 +204,7 @@ h6 {
 .header .branding {
     min-height: 60px;
     padding: 10px 0;
-    background-color: #ffd63a;
+    background-color: white;
 }
 
 .header .logo {
@@ -212,7 +212,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 76px;
   margin-right: 8px;
 }
 
