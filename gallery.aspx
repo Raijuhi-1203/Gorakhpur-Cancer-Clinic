@@ -313,6 +313,28 @@
                 </div>
                 
 
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="service-item">
+                        <div class="service-image">
+                            <img src="assets/img/gallery/gallery-25.webp" alt="Cardiology Services" class="img-fluid">
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="service-item">
+                        <div class="service-image">
+                            <img src="assets/img/gallery/gallery-26.webp" alt="Cardiology Services" class="img-fluid">
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
                
 
             </div>
