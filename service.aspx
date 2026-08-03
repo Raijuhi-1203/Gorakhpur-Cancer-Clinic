@@ -23,123 +23,6 @@
 
             <div class="row gy-4">
 
-                <%--<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                    <div class="service-item">
-                        <div class="service-image">
-                            <img src="assets/img/health/cancer-1.webp" alt="Cardiology Services" class="img-fluid">
-                        </div>
-                        <div class="service-content">
-                            <h5>Cancer chemotherapy</h5>
-                            <p>
-                                Advanced chemotherapy treatments delivering personalized, effective cancer care with compassionate support.
-                            </p>
-
-                            <a href="tel:7007671829" class="service-btn">
-                                <span>Contact Us</span>
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                
-
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="250">
-                    <div class="service-item">
-                        <div class="service-image">
-                            <img src="assets/img/health/cancer-2.webp" alt="Neurology Services" class="img-fluid">
-                        </div>
-                        <div class="service-content">
-                            <h5>Cancer targeted/immuno tharapy</h5>
-                            <p>
-                                Precision cancer immunotherapy improving survival through advanced, personalized targeted treatment approaches.
-                            </p>
-
-                            <a href="tel:7007671829" class="service-btn">
-                                <span>Contact Us</span>
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                    <div class="service-item">
-                        <div class="service-image">
-                            <img src="assets/img/health/cancer-3.webp" alt="Orthopedics Services" class="img-fluid">
-                        </div>
-                        <div class="service-content">
-                            <h5>Radiotherapy planning</h5>
-                            <p>
-                                Accurate radiation planning ensures effective cancer treatment with optimized patient safety.
-                            </p>
-
-                            <a href="tel:7007671829" class="service-btn">
-                                <span>Contact Us</span>
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                
-
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="350">
-                    <div class="service-item">
-                        <div class="service-image">
-                            <img src="assets/img/health/cancer-4.webp" alt="Pediatrics Services" class="img-fluid">
-                        </div>
-                        <div class="service-content">
-                            <h5>FNAC/Biopsy testing</h5>
-                            <p>
-                                Advanced FNAC and biopsy procedures ensuring precise diagnosis with expert pathological evaluation.
-                            </p>
-
-                            <a href="tel:7007671829" class="service-btn">
-                                <span>Contact Us</span>
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-              
-
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-                    <div class="service-item">
-                        <div class="service-image">
-                            <img src="assets/img/health/cancer-5.webp" alt="Emergency Services" class="img-fluid">
-                        </div>
-                        <div class="service-content">
-                            <h5>Cancer screening</h5>
-                            <p>Advanced cancer screening helps detect abnormalities before symptoms develop effectively.</p>
-
-                            <a href="tel:7007671829" class="service-btn">
-                                <span>Contact Us</span>
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                
-
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="450">
-                    <div class="service-item">
-                        <div class="service-image">
-                            <img src="assets/img/health/cancer-6.webp" alt="Laboratory Services" class="img-fluid">
-                        </div>
-                        <div class="service-content">
-                            <h5>Cancer treatment & consultation</h5>
-                            <p>
-                                Expert cancer treatment and personalized consultations for compassionate, comprehensive patient care.
-                            </p>
-
-                            <a href="tel:7007671829" class="service-btn">
-                                <span>Contact Us</span>
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                --%>
-
                 <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="450">
                     <div class="service-item">
                         <div class="service-image">
@@ -185,20 +68,6 @@
                 <div class="col-lg-6 col-md-6 mt-3" data-aos="fade-up" data-aos-delay="450">
                     <div class="service-item">
                         <div class="service-image">
-                            <img src="assets/img/health/cancer-1.webp" alt="Cardiology Services" class="img-fluid">
-                        </div>
-                        <div class="service-content mt-2">
-                            <h5>CANCER TREATMENT</h5>
-                            <p>
-                                Cancer treatment uses surgery, chemotherapy, and radiation therapy to remove, kill, or slow the growth of cancer cells. The right plan depends on the type and stage of the cancer, as well as the overall health of the patient.Main Types of TreatmentSurgery: Doctors cut out the tumor and some nearby healthy tissue.Chemo and Drugs: Special medicines kill fast-growing cells throughout the body.Radiation: High-energy rays destroy cancer cells in a specific spot.Immunotherapy: Treatments help your own immune system find and fight cancer.Hormone Therapy: Medicines or surgery stop hormones that feed certain cancers.Stem Cell Transplant: Healthy blood stem cells replace damaged bone marrow.Treatment GoalsPrimary Care: The main effort to cure the cancer or get rid of all the cancer cells.Adjuvant Care: Extra treatment given after the main treatment to keep cancer from coming back.Palliative Care: Treatments used to ease pain and make life better when a cure is not possible.                           
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-6 mt-3" data-aos="fade-up" data-aos-delay="450">
-                    <div class="service-item">
-                        <div class="service-image">
                             <img src="assets/img/health/cancer-2.webp" alt="Cardiology Services" class="img-fluid">
                         </div>
                         <div class="service-content mt-2">
@@ -212,6 +81,20 @@ How It Works Spotting hidden cells: Cancer cells often trick the immune system i
                                 <b>Common Side Effects </b>
                                 <br />
                                 Inflammation: Because the immune system becomes very active, it can attack healthy organs.Flu-like signs: Fever, chills, and feeling very tired.Skin issues: Itching, rashes, or dry skin.Tummy trouble: Upset stomach or changes in weight.                           
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-6 mt-3" data-aos="fade-up" data-aos-delay="450">
+                    <div class="service-item">
+                        <div class="service-image">
+                            <img src="assets/img/health/cancer-1.webp" alt="Cardiology Services" class="img-fluid">
+                        </div>
+                        <div class="service-content mt-2">
+                            <h5>CANCER TREATMENT</h5>
+                            <p>
+                                Cancer treatment uses surgery, chemotherapy, and radiation therapy to remove, kill, or slow the growth of cancer cells. The right plan depends on the type and stage of the cancer, as well as the overall health of the patient.Main Types of TreatmentSurgery: Doctors cut out the tumor and some nearby healthy tissue.Chemo and Drugs: Special medicines kill fast-growing cells throughout the body.Radiation: High-energy rays destroy cancer cells in a specific spot.Immunotherapy: Treatments help your own immune system find and fight cancer.Hormone Therapy: Medicines or surgery stop hormones that feed certain cancers.Stem Cell Transplant: Healthy blood stem cells replace damaged bone marrow.Treatment GoalsPrimary Care: The main effort to cure the cancer or get rid of all the cancer cells.Adjuvant Care: Extra treatment given after the main treatment to keep cancer from coming back.Palliative Care: Treatments used to ease pain and make life better when a cure is not possible.                           
                             </p>
                         </div>
                     </div>
@@ -264,12 +147,31 @@ Even though the cure is the goal and hope for many, it doesn't always get better
                 <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="450">
                     <div class="service-item">
                         <div class="service-image">
-                            <img src="assets/img/health/cancer-7.webp" alt="Cardiology Services" class="img-fluid">
+                            <img src="assets/img/health/cancer-11.webp" alt="Cardiology Services" class="img-fluid">
                         </div>
                         <div class="service-content mt-2">
-                            <h5>RADIOTHERAPY SIDE EFFECTS</h5>
+                            <h5>SURGERY</h5>
                             <p>
-                                Radiotherapy side effects include general tiredness, localized skin changes, and hair loss at the treatment site. These reactions happen because radiation affects both unhealthy cancer cells and nearby healthy cells.General Side EffectsFatigue: Extreme tiredness that does not go away with rest, often starting after a few weeks of treatment.Skin Changes: Redness, dryness, itching, or peeling similar to a sunburn in the targeted area.Hair Loss: Loss of hair limited strictly to the specific part of the body receiving the radiation beam.Location-Specific EffectsBrain: Headaches, nausea, blurry vision, and scalp hair loss.Head and Neck: Dry mouth, sore throat, trouble swallowing, and taste changes.Chest: Cough, shortness of breath, and throat discomfort.Stomach and Abdomen: Nausea, vomiting, and diarrhea.Pelvis: Diarrhea, bladder irritation, urinary urgency, and sexual or fertility issues.Most short-term side effects fade within a few weeks to a few months after your final treatment session.                            
+                                Cancer surgery is an operation performed to remove a cancer (tumor) from the body. The goal is to remove the tumor completely, often along with a small margin of healthy tissue and sometimes nearby lymph nodes, to reduce the chance of the cancer returning.
+Common reasons for cancer surgery include:
+                               
+                                <br />
+                                Curative surgery: To completely remove the cancer.
+                                
+                                <br />
+                                Diagnostic surgery (biopsy): To take a tissue sample and confirm the diagnosis.
+                                
+                                <br />
+                                Staging surgery: To determine how far the cancer has spread.
+                                
+                                <br />
+                                Debulking surgery: To remove as much of the tumor as possible when complete removal isn't feasible.
+
+                                <br />
+                                Palliative surgery: To relieve symptoms such as pain, bleeding, or blockage and improve quality of life.
+
+                                <br />
+                                The type of surgery depends on the cancer's location, size, stage, and the patient's overall health. Surgery may be used alone or combined with treatments such as chemotherapy, radiation therapy, targeted therapy, or immunotherapy.                           
                             </p>
                         </div>
                     </div>
@@ -290,26 +192,25 @@ Even though the cure is the goal and hope for many, it doesn't always get better
                     </div>
                 </div>
 
+                <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="450">
+                    <div class="service-item">
+                        <div class="service-image">
+                            <img src="assets/img/health/cancer-7.webp" alt="Cardiology Services" class="img-fluid">
+                        </div>
+                        <div class="service-content mt-2">
+                            <h5>RADIOTHERAPY SIDE EFFECTS</h5>
+                            <p>
+                                Radiotherapy side effects include general tiredness, localized skin changes, and hair loss at the treatment site. These reactions happen because radiation affects both unhealthy cancer cells and nearby healthy cells.General Side EffectsFatigue: Extreme tiredness that does not go away with rest, often starting after a few weeks of treatment.Skin Changes: Redness, dryness, itching, or peeling similar to a sunburn in the targeted area.Hair Loss: Loss of hair limited strictly to the specific part of the body receiving the radiation beam.Location-Specific EffectsBrain: Headaches, nausea, blurry vision, and scalp hair loss.Head and Neck: Dry mouth, sore throat, trouble swallowing, and taste changes.Chest: Cough, shortness of breath, and throat discomfort.Stomach and Abdomen: Nausea, vomiting, and diarrhea.Pelvis: Diarrhea, bladder irritation, urinary urgency, and sexual or fertility issues.Most short-term side effects fade within a few weeks to a few months after your final treatment session.                            
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
 
     </section>
     <!-- /Services Section -->
 
-   <%-- <section id="featured-departments" class="featured-departments section">
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
-            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-                <div cl  ass="department-highlight">
-                    
-                    <h4><b>Radiotherapy Side Effects Treatment</b></h4>
-                    <p>
-                        Radiotherapy is an effective treatment for many types of cancer, but some patients may experience temporary side effects during or after treatment.
-                    </p>
-
-
-                </div>
-            </div>
-        </div>
-    </section>--%>
 
 </asp:Content>

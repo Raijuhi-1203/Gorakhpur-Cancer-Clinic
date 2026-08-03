@@ -11,7 +11,7 @@
                 <div class="col-lg-6 ">
                     <div class="hero-content">
 
-                        <h1 data-aos="fade-right" data-aos-delay="300">Excellence in <span class="highlight">Healthcare</span> With Compassionate Care
+                        <h1 data-aos="fade-right" data-aos-delay="300">Cancer treatment <span class="highlight">with Evidence</span> Based research
                         </h1>
 
                         <p class="hero-description" data-aos="fade-right" data-aos-delay="400">
@@ -20,7 +20,7 @@
 
                         <div class="hero-stats mb-4" data-aos="fade-right" data-aos-delay="500">
                             <div class="stat-item">
-                                <h3><span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="2"
+                                <h3><span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="2"
                                     class="purecounter"></span>+</h3>
                                 <p>Years Experience</p>
                             </div>
@@ -108,7 +108,7 @@
                         </div>
                         <div class="experience-badge">
                             <div class="badge-content">
-                                <span class="years">20+</span>
+                                <span class="years">25+</span>
                                 <span class="text">Years of Trusted Care</span>
                             </div>
                         </div>
@@ -134,7 +134,7 @@
                     <div class="specialty-card">
                         <div class="specialty-content">
                             
-                            <h3><b>Cancer Immunotherapy</b></h3>
+                            <h3><b style="font-weight:700;">Cancer Immunotherapy</b></h3>
                             <p>
                                 Cancer Immunotherapy is an advanced treatment that helps the body's own immune system recognize and fight cancer cells more effectively.
                             </p>
@@ -156,7 +156,7 @@
                     <div class="specialty-card">
                         <div class="specialty-content">
                             
-                            <h3><b>Cancer Chemotherapy</b></h3>
+                            <h3><b style="font-weight:700;">Cancer Chemotherapy</b></h3>
                             <p>
                                 Cancer Chemotherapy is a proven and effective cancer treatment that uses specialized medicines to destroy cancer cells, slow their growth, and prevent them from spreading.
                             </p>

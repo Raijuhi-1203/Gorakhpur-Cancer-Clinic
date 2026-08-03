@@ -54,8 +54,7 @@
 
                 <div class="container position-relative d-flex align-items-center justify-content-between">
                     <a href="index.aspx" class="logo d-flex align-items-center">
-                        <img src="assets/img/logo.webp" />
-                        <%--<h1 class="sitename">GORAKHPUR CANCER CLINIC</h1>--%>
+                        <img src="assets/img/logo2.png" />
                     </a>
 
                     <nav id="navmenu" class="navmenu">
