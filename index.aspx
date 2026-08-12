@@ -246,7 +246,7 @@
 
                             <div class="cta-wrapper">
                                 <a href="tel:7007671829" class="primary-cta">
-                                    <span>Schedule Consultation</span>
+                                    <span>Book Appointment: 7007671829, 9889297297</span>
                                     <i class="bi bi-arrow-right"></i>
                                 </a>
                                 <a href="service.aspx" class="secondary-cta">
