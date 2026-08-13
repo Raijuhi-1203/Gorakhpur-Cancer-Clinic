@@ -101,7 +101,7 @@
                                     <i class="bi bi-heart-pulse"></i>
                                 </div>
                                 <div class="card-text">
-                                    <h4>Timing :- 9:00 am to 4:00 pm</h4>
+                                    <h4>Timing :- 9:00 am to 2:00 pm</h4>
                                     
                                 </div>
                             </div>

@@ -49,7 +49,7 @@
                             </div>
                             <div class="info-content">
                                 <h3>Hours of Work</h3>
-                                <p>9:00 AM - 1:00 PM</p>
+                                <p>9:00 AM - 2:00 PM</p>
                             </div>
                         </div>
 
@@ -59,19 +59,11 @@
                             </div>
                             <div class="info-content">
                                 <h3>For any Query</h3>
-                                <p>+91-9889297297</p>
+                                <p>+91-9889297297, 7007671829</p>
                             </div>
                         </div>
 
-                        <div class="contact-info-item" data-aos="fade-up" data-aos-delay="300">
-                            <div class="info-icon">
-                                <i class="bi bi-telephone"></i>
-                            </div>
-                            <div class="info-content">
-                                <h3>For any Query</h3>
-                                <p>+91-7007671829</p>
-                            </div>
-                        </div>
+                        
 
                     </div>
                 </div>
@@ -119,7 +111,7 @@
         <div class="container-fluid map-container" data-aos="fade-up" data-aos-delay="200">
             <div class="map-overlay"></div>
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113996.60078799856!2d83.4039116!3d26.76371515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3991446a0c332489%3A0x1ff3f97fdcc6bfa2!2sGorakhpur%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1784874525194!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3560.751043252153!2d83.39479197784789!3d26.81605461664002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39914544df23a6d7%3A0xdc0f48973e746072!2sGorakhpur%20Cancer%20Clinic!5e0!3m2!1sen!2sin!4v1786598332923!5m2!1sen!2sin"
                 width="100%" height="500" style="border: 0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
